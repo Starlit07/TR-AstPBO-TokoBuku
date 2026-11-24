@@ -1,6 +1,6 @@
 package model;
 
-public class Users {
+public class Admins {
     private int id;
     private String username;
     private String password;
@@ -28,4 +28,6 @@ public class Users {
     public void setPassword(String password) {
         this.password = password;
     }
+    
+    
 }
